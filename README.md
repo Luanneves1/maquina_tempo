@@ -1,7 +1,7 @@
 Calculadora de Idade em PHP
 Este é um simples programa em PHP que calcula a idade com base no ano de nascimento fornecido e no ano desejado.
 
-![logo]()
+![logo](maquina_tempo)
 
 Funcionalidade
 O programa consiste em um formulário onde o usuário informa o ano de nascimento e o ano desejado para calcular a idade. A validação é feita para garantir que o ano de nascimento não seja posterior ao ano desejado.
